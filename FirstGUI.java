@@ -6,6 +6,6 @@ public class FirstGUI extends JFrame {
         gui.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         gui.setSize(640, 480);
         gui.setVisible(true);
-        gui.setTitle("First GUI");
+        gui.setTitle("First GUI!");
     }
 }
