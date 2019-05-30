@@ -9,7 +9,6 @@ public class events extends JFrame {
     private JLabel label2;
     private JButton button;
     private JButton button2;
-    private int x = 0, y = 0;
 
 
     public events() {
@@ -37,25 +36,12 @@ public class events extends JFrame {
 
     public class event implements ActionListener {
         public void actionPerformed(ActionEvent e) {
-            if (x == 0){
-                label.setText("You now have the big stupid ٩(^ᴗ^)۶");
-                x = 1;
-            }
-             else if (x == 1){
-                label.setText("");
-                x = 0;
-            }
+            label.setText("You now how the big stupid ٩(^ᴗ^)۶");
         }
     }
     public class event2 implements ActionListener {
         public void actionPerformed(ActionEvent e2) {
-            if (y == 0) {
-                label2.setText("You now have the big stupid ٩(^ᴗ^)۶");
-                 y = 1;
-            } else if (y == 1) {
-                label2.setText("");
-                y = 0;
-            }
+            label2.setText("You now how even bigger stupid ٩(^ᴗ^)۶");
         }
     }
 
