@@ -1,5 +1,3 @@
-package src;
-
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
@@ -53,4 +51,5 @@ public class events extends JFrame {
         gui.setVisible(true);
 
     }
+
 }

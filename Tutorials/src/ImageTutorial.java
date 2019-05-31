@@ -1,5 +1,3 @@
-package src;
-
 import javax.swing.*;
 import java.awt.*;
 
@@ -31,4 +29,5 @@ public class ImageTutorial extends JFrame {
         gui.pack();
         gui.setTitle("Quotes & Curly Braces");
     }
+
 }
