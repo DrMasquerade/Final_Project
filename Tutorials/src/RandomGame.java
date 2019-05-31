@@ -56,4 +56,5 @@ public class RandomGame extends JFrame {
         gui.setVisible(true);
         gui.setTitle("Random Game");
     }
+
 }

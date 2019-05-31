@@ -31,6 +31,7 @@ public class Menu extends JFrame{
             gui.setSize(200,200);
             gui.setVisible(true);
         }
+
     }
 
 

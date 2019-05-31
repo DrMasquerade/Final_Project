@@ -28,6 +28,7 @@ public class FirstGUI extends JFrame {
         gui.setVisible(true);
         gui.setTitle("First GUI");
     }
+
 }
 
 // Tutorial I watched: https://www.youtube.com/watch?v=mjOicuXEvwg&list=PLA11B442106673455&index=1
