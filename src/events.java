@@ -36,12 +36,12 @@ public class events extends JFrame {
 
     public class event implements ActionListener {
         public void actionPerformed(ActionEvent e) {
-            label.setText("You now how the big stupid ٩(^ᴗ^)۶");
+            label.setText("You now have the big stupid ٩(^ᴗ^)۶");
         }
     }
     public class event2 implements ActionListener {
         public void actionPerformed(ActionEvent e2) {
-            label2.setText("You now how even bigger stupid ٩(^ᴗ^)۶");
+            label2.setText("You now have the even bigger stupid ٩(^ᴗ^)۶");
         }
     }
 
